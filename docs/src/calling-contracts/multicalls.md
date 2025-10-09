@@ -37,3 +37,5 @@ You can also interact with the `CallResponse` by moving the type annotation to t
 ```rust,ignore
 {{#include ../../../examples/contracts/src/lib.rs:multi_contract_call_response}}
 ```
+
+<!-- Auto-update: 2025-10-10T04:24:23.399451 -->
