@@ -47,3 +47,5 @@ You can also configure the decoder used to decode the return value of the contra
 ```
 
 The same method is available for script calls.
+
+<!-- Auto-update: 2025-10-10T12:50:03.442811 -->
