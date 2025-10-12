@@ -23,3 +23,5 @@ You can use the `decode_logs()` function to retrieve a `LogResult` struct contai
 Due to possible performance hits, it is not recommended to use `decode_logs()` outside of a debugging scenario.
 
 > **Note:** String slices cannot be logged directly. Use the `__to_str_array()` function to convert it to a `str[N]` first.
+
+<!-- Auto-update: 2025-10-12T18:02:26.280877 -->
