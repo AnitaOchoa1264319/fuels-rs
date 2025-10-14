@@ -13,3 +13,5 @@ If your contract method is calling other contracts you will have to add the appr
 ```rust,ignore
 {{#include ../../../e2e/tests/contracts.rs:external_contract_ids}}
 ```
+
+<!-- Auto-update: 2025-10-14T12:04:12.043861 -->
