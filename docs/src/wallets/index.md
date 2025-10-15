@@ -45,3 +45,5 @@ The SDK offers multiple signing methods to suit different scenarios:
   Generates dummy signatures, which is useful for impersonation while testing. Only possible when using a network that does not enforce signature validation.
 
 ---
+
+<!-- Auto-update: 2025-10-15T12:50:55.653138 -->
